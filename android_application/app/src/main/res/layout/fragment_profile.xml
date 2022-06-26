@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+   <TextView
+      android:layout_marginTop="25dp"
+       android:layout_marginRight="25dp"
+       android:layout_marginLeft="25dp"
+       android:textColor="#1860e7"
+       android:text="Username :"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+
+    <EditText
+
+       android:id="@+id/etusername"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:padding="10dp"
+        android:background="@drawable/button1_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#1860e7"
+        android:text="Mobile :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+
+android:id="@+id/etmobile"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:padding="10dp"
+        android:background="@drawable/button1_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#1860e7"
+        android:text="Email id :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+
+android:id="@+id/etemail"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:padding="10dp"
+        android:background="@drawable/button1_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#1860e7"
+        android:text="Address :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+
+        android:id="@+id/etaddress"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:padding="10dp"
+        android:background="@drawable/button1_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="#1860e7"
+        android:text="Adhar :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+
+        android:id="@+id/etadhar"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:padding="10dp"
+        android:background="@drawable/button1_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

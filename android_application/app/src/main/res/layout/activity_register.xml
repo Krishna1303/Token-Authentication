@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:layout_gravity="center"
+    android:gravity="center"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:layout_marginRight="5dp"
+        android:layout_weight="0.8"
+        android:id="@+id/etuserid"
+        android:hint="Enter Account Number"
+        style="@style/editText1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="1dp"></View>
+    <Button
+        android:text="submit"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="0.5"
+        android:id="@+id/btuserid"
+        android:background="@drawable/button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+
+
+    <EditText
+        android:id="@+id/etusername"
+        style="@style/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/etemail"
+        android:inputType="textEmailAddress"
+
+        style="@style/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+  <EditText
+      android:id="@+id/etmobile"
+      android:inputType="number"
+
+      style="@style/editText1"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etrole"
+        android:inputType="number"
+
+        style="@style/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+
+        android:id="@+id/etownerusername"
+        android:inputType="text"
+        android:hint="Set UserName"
+        style="@style/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+
+        android:id="@+id/etpassword"
+        android:inputType="textPassword"
+       android:hint="Set Password"
+        style="@style/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:id="@+id/btsignup"
+        android:layout_gravity="center"
+        android:text="SignUp"
+        android:padding="15dp"
+
+        android:background="@drawable/button1_border"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

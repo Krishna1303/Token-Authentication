@@ -1,0 +1,10 @@
+com\android\TokenAuthentication\controller\UserController.class
+com\android\TokenAuthentication\service\AppUserRepository.class
+com\android\TokenAuthentication\model\Mail.class
+com\android\TokenAuthentication\model\AppUserModel.class
+com\android\TokenAuthentication\model\UserModel.class
+com\android\TokenAuthentication\service\TransactionRepository.class
+com\android\TokenAuthentication\service\UserRepository.class
+com\android\TokenAuthentication\controller\BankingController.class
+com\android\TokenAuthentication\model\TransactionModel.class
+com\android\TokenAuthentication\TokenAuthenticationApplication.class

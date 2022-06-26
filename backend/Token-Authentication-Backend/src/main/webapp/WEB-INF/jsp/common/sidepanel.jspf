@@ -1,0 +1,74 @@
+<div class=" col-md-2  " >
+<nav role="navigation" class="navbar navbar-default">
+	<ul class="nav nav-pills nav-stacked">
+	 <div class="nav navbar-default">
+   
+   
+    <ul class="list-inline">
+      <img src="assets/logoim.png" alt="image" style="width: 50px;height: 50px;" class="img-rounded"></img>
+    </ul>
+  </div>
+<li class="list-group-item"><span class="fa fa-laptop" style="font-size:16px;"></spn><a href="home" class="list-group"> Dashboard</a></li>
+<li class="list-group-item"><span class="fa fa-bell" style="font-size:16px;"></spn><a href="student" class="list-group"> Notifications</a></li>
+<li class="list-group-item"><span class="fa fa-graduation-cap" style="font-size:16px;"></spn><a href="student" class="list-group"> Student</a></li>
+<li class="list-group-item"><span class="fa fa-user-circle-o" style="font-size:16px;"></spn><a href="student" class="list-group"> parent</a></li>
+<li class="list-group-item"><span class="fa fa-user-circle" style="font-size:16px;"></spn><a href="student" class="list-group"> Teacher</a></li>
+<li class="list-group-item"><span class="fa fa-users" style="font-size:16px;"></spn><a href="student" class="list-group"> Users</a></li>
+<li class="list-group-item"><span class="fa fa-square" style="font-size:16px;"></spn><a href="student" class="list-group"> Class</a></li>
+<li class="list-group-item"><span class="fa fa-star" style="font-size:16px;"></spn><a href="student" class="list-group"> Section</a></li>
+<li class="list-group-item"><span class="fa fa-book" style="font-size:16px;"></spn><a href="student" class="list-group"> Subject</a></li>
+<li class="list-group-item"><span class="fa fa-signal" style="font-size:16px;"></spn><a href="student" class="list-group"> Grade</a></li>
+<li class="list-group-item"><span class="fa fa-clock-o" style="font-size:16px;"></spn><a href="student" class="list-group"> Exam</a></li>
+<li class="list-group-item"><span class="fa fa-hand-paper-o" style="font-size:16px;"></spn><a href="student" class="list-group"> Attendence</a></li>
+<li class="list-group-item"><span class="fa fa-bus" style="font-size:16px;"></spn><a href="student" class="list-group"> Bus</a></li>
+<li class="list-group-item">
+ <div class="dropup">
+    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">APP ELEMENTS
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="#">Achivements</a></li>
+       <li  role ="presentation" class="divider"></li>
+      <li><a href="#">Facilities</a></li>
+       <li  role ="presentation" class="divider"></li>
+      <li><a href="#">Gallery</a></li>
+      <li  role ="presentation" class="divider"></li>
+      <li><a href="#">Banners</a></li>
+    </ul>
+  </div>
+
+
+</li>
+<style>
+.list-inline {
+  display: flex;
+  justify-content: center;
+}
+
+</style>
+
+		</nav>
+<!-- <div class="panel panel-primary ">
+      <div class="panel-heading"><img src="assets/logoim.png" alt="..." class="img-rounded"></div>
+      <div class="panel-body">
+      <ul class="list-group">
+<li class="list-group-item"><i class=" fa fa-laptop" style="font-size:16px;"></i><a href="home" class="list-group">  DashBoard</a></li>
+<li class="list-group-item"><i class="fa fa-graduation-cap" style="font-size:16px;"></i><a href="student" class="list-group"> Student</a></li>
+<li class="list-group-item"><i class="fa fa-user-circle-o" style="font-size:16px;"></i><a href="" class="list-group"> Parent</a></li>
+<li class="list-group-item"><i class="fa fa-user-circle" style="font-size:16px;"></i><a href="" class="list-group"> Teacher</a></li>
+<li class="list-group-item"><i class="fa fa-users" style="font-size:16px;"></i><a href="" class="list-group"> User</a></li>
+<li class="list-group-item"><i class="fa fa-square" style="font-size:16px;"></i><a href="" class="list-group"> Class</a></li>
+<li class="list-group-item"><i class="fa fa-star" style="font-size:16px;"></i><a href="" class="list-group"> Section</a></li>
+<li class="list-group-item"><i class="fa fa-book" style="font-size:16px;"></i><a href="" class="list-group"> Subject</a></li>
+<li class="list-group-item"><i class="fa fa-signal" style="font-size:16px;"></i><a href="" class="list-group"> Grade</a></li>
+<li class="list-group-item"><i class="fa fa-clock-o" style="font-size:16px;"></i><a href="" class="list-group"> Exam</a></li>
+<li class="list-group-item"><i class="fa fa-hand-paper-o" style="font-size:16px;"></i><a href="" class="list-group"> Attendence</a></li>
+
+
+</ul>
+      
+      
+      </div>
+    </div> -->
+
+
+</div>
